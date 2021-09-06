@@ -9,3 +9,10 @@
 Análise de Dados do Airbnb da Cidade que encanta quem a visita, Lisboa.
 
 Uma breve descrição do meu primeiríssimo projeto feito com muito cuidado e dedicação.
+  
+  
+**Links para me acharem:**
+* [LinkedIn](https://www.linkedin.com/in/alanna-gonzaga-10781013a/)
+* [Instagram](https://www.instagram.com/alannaramosgonzaga/)
+
+
