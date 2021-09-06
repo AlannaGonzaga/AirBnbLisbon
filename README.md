@@ -3,9 +3,6 @@
 
 <p align="center">
   <img src="https://www.collegiate-ac.pt/propeller/uploads/sites/4/2020/11/ruas-mais-bonitas-de-lisboa-1-1450x967.jpg" alt="imagem maneira relacionada ao projeto"height=400px >
-
-
-![shutterstock_254651461](https://user-images.githubusercontent.com/80681843/131996642-7ebdf2c6-b439-4239-b5f4-a122ce2b6191.jpg)
 # AirBnbLisbon
 Análise de Dados do Airbnb da Cidade que encanta quem a visita, Lisboa.
 
